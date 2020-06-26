@@ -1,0 +1,47 @@
+Last login: Wed Jun 24 23:19:34 on ttys000
+You have mail.
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+MirandaTechMBP:~ los$ cd Documents
+MirandaTechMBP:Documents los$ cd meda-summer2020-carlos/
+MirandaTechMBP:meda-summer2020-carlos los$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	deleted:    AdobeStock_234733993.jpeg
+	new file:   Bash Guide.pdf
+	new file:   GitHub Guide.pdf
+	new file:   webpage.html
+
+MirandaTechMBP:meda-summer2020-carlos los$ git commit -m “message”
+[master 36bfea2] “message”
+ 4 files changed, 36 insertions(+)
+ delete mode 100644 AdobeStock_234733993.jpeg
+ create mode 100644 Bash Guide.pdf
+ create mode 100644 GitHub Guide.pdf
+ create mode 100644 webpage.html
+MirandaTechMBP:meda-summer2020-carlos los$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+MirandaTechMBP:meda-summer2020-carlos los$ git push
+Counting objects: 5, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 367.70 KiB | 15.99 MiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0)
+To https://github.com/mirandatech/meda-summer2020-carlos.git
+   ef389ba..36bfea2  master -> master
+MirandaTechMBP:meda-summer2020-carlos los$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+MirandaTechMBP:meda-summer2020-carlos los$ 
