@@ -1,0 +1,35 @@
+This is a general overview of my website "Portfolio" Project.
+
+My choices of Color for my website are below:
+
+Background color: #a6a6a6
+ cover body: #148052
+ header: #FFFFFF
+ Text: #FFFFFF
+ link text: #183518
+
+
+HOME:
+    General Welcome page with the below text:
+    "Welcome to my website, please explore my site and learn more about me and the work I do"
+ABOUT ME:
+    Profile Picture.
+    "My name is Carlos Miranda, I am a father, husband, and small business owner. I started my career in tech over 15 years ago doing Audio/Video Home automation and then moving into IT about 5 years ago. I have worked in the non-profit sector for 5 years at CCSF, Greenpeace, and Jewish Home of San Francisco. I then went on to work for an Australian based tech/ telecom company doing customer support and integrated services using REST and Soap API integrations. Unfortunately with layoffs, I was one of those affected.
+    
+    I have built my small IT consultation firm initially out of necessity because I was unable to land a job in the Tech space, working on my own provided me a way to gain experience and work one on one with residential and retail clients. At this point in my career, I am rebranding my tech business and making a solid effort to have it be the bulk of my income. Looking forward to developing myself more professionaly and personally."
+Projects:
+    "I have a small list of projects that I have worked on, some have had some project management involved. I would like to expand on my product management knowledge as I feel it will help with my Web Development and IT business as a whole."
+
+Contact Page:
+
+    "Please feel free to reach out to me with any inquries to my professional email, also you can visint my linkedIN. I have a link to my current website to for additional information on the work I've done and services."
+
+Portfolios Review:
+    https://www.lottanieminen.com/
+    Likes: Colors were really nice, typography combination is great. 
+    Dislikes: You are able to see parts of the other webpages on the edges because there is a function that transitions between the pages. Great idea but don't like the execution of it.
+
+    https://vanschneider.com/
+    Likes: Great layout and design, UX is great.
+    Dislikes: not a fan of the range of colors used, also may have too much content.
+
